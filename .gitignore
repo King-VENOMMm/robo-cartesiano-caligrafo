@@ -1,0 +1,49 @@
+# Sistemas operacionais e editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node.js e aplicações web
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# PlatformIO, Arduino e ESP32
+.pio/
+*.elf
+*.bin
+*.map
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.autosave
+
+# CAD: temporários e cópias automáticas
+*.lck
+*.lock
+*.sv$
+*.ac$
+
+# Resultados brutos locais potencialmente grandes
+resultados/brutos/
