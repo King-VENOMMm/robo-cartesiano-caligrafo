@@ -1,0 +1,10 @@
+(Teste de bancada R10 - eixos X e Y)
+G21 G94 G91
+G1 X3 F120
+G4 P0.5
+G1 X-3
+G4 P0.5
+G1 Y3
+G4 P0.5
+G1 Y-3
+G90

@@ -1,0 +1,161 @@
+{
+  "revisao": "R09",
+  "componentes": 176,
+  "modelos_plasticos": 30,
+  "pecas_impressas": 41,
+  "posicoes_verificadas": [
+    [
+      94.5,
+      21
+    ],
+    [
+      94.5,
+      25
+    ],
+    [
+      94.5,
+      166
+    ],
+    [
+      94.5,
+      328.5
+    ],
+    [
+      94.5,
+      335
+    ],
+    [
+      105,
+      21
+    ],
+    [
+      105,
+      25
+    ],
+    [
+      105,
+      166
+    ],
+    [
+      105,
+      328.5
+    ],
+    [
+      105,
+      335
+    ],
+    [
+      210,
+      21
+    ],
+    [
+      210,
+      25
+    ],
+    [
+      210,
+      166
+    ],
+    [
+      210,
+      328.5
+    ],
+    [
+      210,
+      335
+    ],
+    [
+      320,
+      21
+    ],
+    [
+      320,
+      25
+    ],
+    [
+      320,
+      166
+    ],
+    [
+      320,
+      328.5
+    ],
+    [
+      320,
+      335
+    ],
+    [
+      330,
+      21
+    ],
+    [
+      330,
+      25
+    ],
+    [
+      330,
+      166
+    ],
+    [
+      330,
+      328.5
+    ],
+    [
+      330,
+      335
+    ]
+  ],
+  "passagens_parafusos": [
+    "Pe (80, 50)",
+    "Pe (80, 450)",
+    "Pe (370, 50)",
+    "Pe (370, 450)",
+    "Mesa (90, 7.5)",
+    "Mesa (225, 7.5)",
+    "Mesa (360, 7.5)",
+    "Mesa (90, 492.5)",
+    "Mesa (360, 492.5)",
+    "Apoio guia Y (20, 25)",
+    "Apoio guia Y (20, 475)",
+    "Apoio guia Y (40, 25)",
+    "Apoio guia Y (40, 475)",
+    "Apoio guia Y (410, 25)",
+    "Apoio guia Y (410, 475)",
+    "Apoio guia Y (430, 25)",
+    "Apoio guia Y (430, 475)",
+    "Bandeja (80, 395)",
+    "Bandeja (80, 475)",
+    "Bandeja (170, 395)",
+    "Bandeja (170, 475)",
+    "Guia cabo 107",
+    "Guia cabo 247",
+    "Guia cabo 387",
+    "Painel 280",
+    "Painel 370",
+    "Suporte SG90 223",
+    "Suporte SG90 231",
+    "Base polia Y (196, 22)",
+    "Base polia Y (196, 49)",
+    "Base polia Y (254, 22)",
+    "Base polia Y (254, 49)",
+    "Ajuste X",
+    "Ajuste Y"
+  ],
+  "janela_util_proposta_mm": [
+    225,
+    310
+  ],
+  "limites_CAD_ponta": {
+    "X": [
+      105,
+      330
+    ],
+    "Y": [
+      25,
+      335
+    ]
+  },
+  "teste_fisico": false,
+  "firmware_painel_integrado": false,
+  "molas": "envelopes nominais; compressao e rigidez devem ser medidas"
+}

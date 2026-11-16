@@ -1,0 +1,2 @@
+Da esquerda para direita: 21 mm, 21.1 mm, 21.2 mm.
+Opcional: nao integra as40 pecas da montagem nem o total de filamento. Verificar no mesmo material e perfil que sera usado nas pecas.

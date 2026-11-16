@@ -1,0 +1,486 @@
+{
+  "revisao": "R09",
+  "fatiador": "OrcaSlicer 2.4.2",
+  "material": "PLA",
+  "densidade_g_cm3": 1.24,
+  "camada_mm": 0.2,
+  "bico_mm": 0.4,
+  "paredes": 3,
+  "tampas_superiores": 4,
+  "tampas_inferiores": 3,
+  "preenchimento": "15% crosshatch",
+  "suportes": "normal(auto), limiar30 graus, interface2 camadas; conforme perfil do usuario",
+  "brim_mm": 5,
+  "massa_total_g": 754.4,
+  "quantidade_fisica": 41,
+  "mesas": [
+    {
+      "mesa": 1,
+      "massa_g": 39.45,
+      "tempo_estimado": "4h 34m 25s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        8.2,
+        139.8,
+        214.5
+      ],
+      "suporte_estimado_g": 1.4786375439832853,
+      "extrusao_rotulada_mm": 13207.638030000393,
+      "extrusao_total_depositada_mm": 13227.638030001437
+    },
+    {
+      "mesa": 2,
+      "massa_g": 40.3,
+      "tempo_estimado": "4h 31m 3s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        209.2,
+        146.8
+      ],
+      "suporte_estimado_g": 2.2791298225617482,
+      "extrusao_rotulada_mm": 13492.25903000017,
+      "extrusao_total_depositada_mm": 13512.259029979425
+    },
+    {
+      "mesa": 3,
+      "massa_g": 37.81,
+      "tempo_estimado": "4h 31m 45s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        9.8,
+        126.8,
+        210.2
+      ],
+      "suporte_estimado_g": 0.8223497840872823,
+      "extrusao_rotulada_mm": 12656.040000000012,
+      "extrusao_total_depositada_mm": 12676.039999991093
+    },
+    {
+      "mesa": 4,
+      "massa_g": 39.82,
+      "tempo_estimado": "4h 31m 23s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        186.2,
+        159.442
+      ],
+      "suporte_estimado_g": 7.193307562989268,
+      "extrusao_rotulada_mm": 13218.429710000888,
+      "extrusao_total_depositada_mm": 13350.854930001678
+    },
+    {
+      "mesa": 5,
+      "massa_g": 45.78,
+      "tempo_estimado": "4h 29m 4s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        176.5,
+        204.8
+      ],
+      "suporte_estimado_g": 11.198627607261018,
+      "extrusao_rotulada_mm": 15328.829430000771,
+      "extrusao_total_depositada_mm": 15348.82943000267
+    },
+    {
+      "mesa": 6,
+      "massa_g": 35.18,
+      "tempo_estimado": "4h 32m 28s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        203.8,
+        140.0
+      ],
+      "suporte_estimado_g": 1.9986296433309552,
+      "extrusao_rotulada_mm": 11775.74171999951,
+      "extrusao_total_depositada_mm": 11795.741720001739
+    },
+    {
+      "mesa": 7,
+      "massa_g": 37.22,
+      "tempo_estimado": "4h 27m 39s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        8.7,
+        129.8,
+        211.3
+      ],
+      "suporte_estimado_g": 1.5833162387243431,
+      "extrusao_rotulada_mm": 12459.214439999361,
+      "extrusao_total_depositada_mm": 12479.214440002086
+    },
+    {
+      "mesa": 8,
+      "massa_g": 40.61,
+      "tempo_estimado": "4h 30m 59s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        135.712,
+        200.3
+      ],
+      "suporte_estimado_g": 1.0740834751484905,
+      "extrusao_rotulada_mm": 13594.44577999988,
+      "extrusao_total_depositada_mm": 13614.445779983242
+    },
+    {
+      "mesa": 9,
+      "massa_g": 41.9,
+      "tempo_estimado": "4h 31m 8s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        210.8,
+        140.442
+      ],
+      "suporte_estimado_g": 0.07256029259047173,
+      "extrusao_rotulada_mm": 13888.102060000905,
+      "extrusao_total_depositada_mm": 14047.724079980055
+    },
+    {
+      "mesa": 10,
+      "massa_g": 134.28,
+      "tempo_estimado": "13h 30m 40s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        163.856,
+        173.356
+      ],
+      "suporte_estimado_g": 12.492477637937872,
+      "extrusao_rotulada_mm": 44840.4566500107,
+      "extrusao_total_depositada_mm": 45021.23974001058
+    },
+    {
+      "mesa": 11,
+      "massa_g": 131.45,
+      "tempo_estimado": "13h 3m 31s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        163.856,
+        165.356
+      ],
+      "suporte_estimado_g": 10.905043329080739,
+      "extrusao_rotulada_mm": 43883.82098003456,
+      "extrusao_total_depositada_mm": 44071.75190002691
+    },
+    {
+      "mesa": 12,
+      "massa_g": 70.44,
+      "tempo_estimado": "7h 19m 25s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        134.442,
+        179.442
+      ],
+      "suporte_estimado_g": 4.729458346868614,
+      "extrusao_rotulada_mm": 23466.12403001249,
+      "extrusao_total_depositada_mm": 23618.29703001277
+    },
+    {
+      "mesa": 13,
+      "massa_g": 60.16,
+      "tempo_estimado": "6h 59m 55s",
+      "limites_deposicao_XY_mm": [
+        2.0,
+        10.0,
+        151.8,
+        140.0
+      ],
+      "suporte_estimado_g": 1.9341385794128687,
+      "extrusao_rotulada_mm": 20151.5799600213,
+      "extrusao_total_depositada_mm": 20171.57996002133
+    }
+  ],
+  "excecoes_acima_5h_aprovadas_pelo_usuario": true,
+  "pecas": [
+    {
+      "peca": "Alojamento do fim de curso Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 5.4731326918036025,
+      "massa_total_g": 5.4731326918036025,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.6836653426592753
+    },
+    {
+      "peca": "Pe da base",
+      "quantidade": 4,
+      "massa_unitaria_g": 10.899292125862234,
+      "massa_total_g": 43.597168503448934,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Placa do motor Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 13.240053361397745,
+      "massa_total_g": 13.240053361397745,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Base do tensor Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 10.614120652435256,
+      "massa_total_g": 10.614120652435256,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.5498064789586996
+    },
+    {
+      "peca": "Carro deslizante do tensor Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 2.387569473059119,
+      "massa_total_g": 2.387569473059119,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.08502697030793013
+    },
+    {
+      "peca": "Lateral esquerda da ponte Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 134.28,
+      "massa_total_g": 134.28,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 12.492477637937872
+    },
+    {
+      "peca": "Retentor dos rolamentos Y",
+      "quantidade": 2,
+      "massa_unitaria_g": 3.4098260979588284,
+      "massa_total_g": 6.819652195917657,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Espacador dos rolamentos Y",
+      "quantidade": 2,
+      "massa_unitaria_g": 7.162931611711833,
+      "massa_total_g": 14.325863223423665,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Lateral direita da ponte Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 131.45,
+      "massa_total_g": 131.45,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 10.905043329080739
+    },
+    {
+      "peca": "Ancora da correia Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 6.619409073843443,
+      "massa_total_g": 6.619409073843443,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.42586894647008117
+    },
+    {
+      "peca": "Tampa do mordente Y",
+      "quantidade": 1,
+      "massa_unitaria_g": 4.8334006798428675,
+      "massa_total_g": 4.8334006798428675,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.44007308398169803
+    },
+    {
+      "peca": "Apoio da haste Y",
+      "quantidade": 4,
+      "massa_unitaria_g": 14.194110322774582,
+      "massa_total_g": 56.77644129109833,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 3.234757087989515
+    },
+    {
+      "peca": "Carro X",
+      "quantidade": 1,
+      "massa_unitaria_g": 60.16,
+      "massa_total_g": 60.16,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 1.9341385794128687
+    },
+    {
+      "peca": "Retentor esquerdo dos rolamentos X",
+      "quantidade": 1,
+      "massa_unitaria_g": 4.559868113921347,
+      "massa_total_g": 4.559868113921347,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Retentor direito dos rolamentos X",
+      "quantidade": 1,
+      "massa_unitaria_g": 4.625709141418519,
+      "massa_total_g": 4.625709141418519,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Espacador dos rolamentos X",
+      "quantidade": 2,
+      "massa_unitaria_g": 2.7356687596466456,
+      "massa_total_g": 5.471337519293291,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Braco da ancora X",
+      "quantidade": 1,
+      "massa_unitaria_g": 15.632798826392477,
+      "massa_total_g": 15.632798826392477,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Ancora da correia X",
+      "quantidade": 1,
+      "massa_unitaria_g": 3.765683889031673,
+      "massa_total_g": 3.765683889031673,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.22782510228154929
+    },
+    {
+      "peca": "Tampa do mordente X",
+      "quantidade": 1,
+      "massa_unitaria_g": 2.5458230924068532,
+      "massa_total_g": 2.5458230924068532,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.32093716778504794
+    },
+    {
+      "peca": "Suporte do motor X",
+      "quantidade": 1,
+      "massa_unitaria_g": 28.27175044060775,
+      "massa_total_g": 28.27175044060775,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Suporte do tensor X",
+      "quantidade": 1,
+      "massa_unitaria_g": 34.20685327160102,
+      "massa_total_g": 34.20685327160102,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 11.11360063695309
+    },
+    {
+      "peca": "Bandeja da eletronica",
+      "quantidade": 1,
+      "massa_unitaria_g": 35.991379228614775,
+      "massa_total_g": 35.991379228614775,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 7.193307562989268
+    },
+    {
+      "peca": "Caixa do painel",
+      "quantidade": 1,
+      "massa_unitaria_g": 70.44,
+      "massa_total_g": 70.44,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 4.729458346868614
+    },
+    {
+      "peca": "Manopla do encoder",
+      "quantidade": 1,
+      "massa_unitaria_g": 2.6477410125684226,
+      "massa_total_g": 2.6477410125684226,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.07256029259047173
+    },
+    {
+      "peca": "Alivio fixo dos cabos",
+      "quantidade": 1,
+      "massa_unitaria_g": 2.159070816930056,
+      "massa_total_g": 2.159070816930056,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Tampa do painel",
+      "quantidade": 1,
+      "massa_unitaria_g": 11.565966449376992,
+      "massa_total_g": 11.565966449376992,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Guia de cabos sob o tampo",
+      "quantidade": 3,
+      "massa_unitaria_g": 1.0743862590953455,
+      "massa_total_g": 3.223158777286036,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.0
+    },
+    {
+      "peca": "Suporte integrado do cabecote",
+      "quantidade": 1,
+      "massa_unitaria_g": 23.852953005672067,
+      "massa_total_g": 23.852953005672067,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.5359747966422824
+    },
+    {
+      "peca": "Cursor da caneta",
+      "quantidade": 1,
+      "massa_unitaria_g": 5.884712299481493,
+      "massa_total_g": 5.884712299481493,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 0.538108678506208
+    },
+    {
+      "peca": "Suporte do SG90",
+      "quantidade": 1,
+      "massa_unitaria_g": 8.978382969126601,
+      "massa_total_g": 8.978382969126601,
+      "orientacao": "Conforme projeto 3MF nas tres mesas; mantida face de apoio escolhida pelo usuario.",
+      "suportes_e_brim_incluidos": true,
+      "suporte_estimado_g": 2.2791298225617482
+    }
+  ],
+  "metodo_massas_individuais": "Rateio das massas nativas por mesa conforme extrusao rotulada de cada modelo; inclui parcela proporcional do brim/purga. Nao e pesagem individual.",
+  "avisos_nativos": [
+    "Mesa60 C e Tg do PLA60 C geram aviso informativo no perfil original; temperaturas mantidas conforme escolha do usuario."
+  ],
+  "gcode_disponibilizado_para_impressao": false,
+  "mesas_ate5h": 9,
+  "mesas_excecoes_aprovadas": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "variacao_nove_mesas_segundos": 406.0
+}

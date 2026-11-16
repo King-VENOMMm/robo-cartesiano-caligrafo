@@ -1,0 +1,2 @@
+Vista superior XY; origem x5,y200 do CAD. Doze rebaixos INFERIORES OD10, profundidade1,2 mm nos M4; nao atravessar toda a madeira.
+Unidades:mm. Os furos na aresta dos apoios exigem operacao separada; nao estao representados como furos passantes da face no DXF. Conferir escala1:1 e validar no STEP antes de cortar.

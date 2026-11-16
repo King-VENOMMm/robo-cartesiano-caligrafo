@@ -1,0 +1,1 @@
+{"autodeskProduct":"Fusion360","type":"script","author":"Projeto Robo A4","description":{"":"Importa o STEP validado e organiza o replay de montagem em etapas nativas do Fusion."},"version":"2.0","runOnStartup":false,"supportedOS":"windows|mac"}

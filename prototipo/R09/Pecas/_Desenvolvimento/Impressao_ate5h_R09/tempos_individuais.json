@@ -1,0 +1,242 @@
+[
+  {
+    "peca": "Lateral esquerda da ponte Y",
+    "tempo": "13h 30m 41s",
+    "segundos": 48641.0,
+    "massa_g": 134.28,
+    "maior_que_5h": true,
+    "gcode": "01\\plate_1.gcode"
+  },
+  {
+    "peca": "Lateral direita da ponte Y",
+    "tempo": "13h 3m 16s",
+    "segundos": 46996.0,
+    "massa_g": 131.45,
+    "maior_que_5h": true,
+    "gcode": "02\\plate_1.gcode"
+  },
+  {
+    "peca": "Caixa do painel",
+    "tempo": "7h 20m 51s",
+    "segundos": 26451.0,
+    "massa_g": 70.53,
+    "maior_que_5h": true,
+    "gcode": "03\\plate_1.gcode"
+  },
+  {
+    "peca": "Carro X",
+    "tempo": "6h 59m 58s",
+    "segundos": 25198.0,
+    "massa_g": 60.17,
+    "maior_que_5h": true,
+    "gcode": "04\\plate_1.gcode"
+  },
+  {
+    "peca": "Suporte do motor X",
+    "tempo": "2h 58m 2s",
+    "segundos": 10682.0,
+    "massa_g": 28.43,
+    "maior_que_5h": false,
+    "gcode": "05\\plate_1.gcode"
+  },
+  {
+    "peca": "Espacador dos rolamentos Y",
+    "tempo": "50m 14s",
+    "segundos": 3014.0,
+    "massa_g": 7.21,
+    "maior_que_5h": false,
+    "gcode": "06\\plate_1.gcode"
+  },
+  {
+    "peca": "Suporte do SG90",
+    "tempo": "1h 1m 53s",
+    "segundos": 3713.0,
+    "massa_g": 9.06,
+    "maior_que_5h": false,
+    "gcode": "07\\plate_1.gcode"
+  },
+  {
+    "peca": "Suporte do tensor X",
+    "tempo": "3h 8m 42s",
+    "segundos": 11322.0,
+    "massa_g": 34.22,
+    "maior_que_5h": false,
+    "gcode": "08\\plate_1.gcode"
+  },
+  {
+    "peca": "Suporte integrado do cabecote",
+    "tempo": "2h 32m 10s",
+    "segundos": 9130.0,
+    "massa_g": 23.88,
+    "maior_que_5h": false,
+    "gcode": "09\\plate_1.gcode"
+  },
+  {
+    "peca": "Tampa do mordente X",
+    "tempo": "22m 2s",
+    "segundos": 1322.0,
+    "massa_g": 2.6,
+    "maior_que_5h": false,
+    "gcode": "10\\plate_1.gcode"
+  },
+  {
+    "peca": "Tampa do mordente Y",
+    "tempo": "39m 48s",
+    "segundos": 2388.0,
+    "massa_g": 4.94,
+    "maior_que_5h": false,
+    "gcode": "11\\plate_1.gcode"
+  },
+  {
+    "peca": "Tampa do painel",
+    "tempo": "1h 4m 27s",
+    "segundos": 3867.0,
+    "massa_g": 11.61,
+    "maior_que_5h": false,
+    "gcode": "12\\plate_1.gcode"
+  },
+  {
+    "peca": "Espacador dos rolamentos X",
+    "tempo": "20m 27s",
+    "segundos": 1227.0,
+    "massa_g": 2.78,
+    "maior_que_5h": false,
+    "gcode": "13\\plate_1.gcode"
+  },
+  {
+    "peca": "Cursor da caneta",
+    "tempo": "43m 45s",
+    "segundos": 2625.0,
+    "massa_g": 5.94,
+    "maior_que_5h": false,
+    "gcode": "14\\plate_1.gcode"
+  },
+  {
+    "peca": "Manopla do encoder",
+    "tempo": "21m 31s",
+    "segundos": 1291.0,
+    "massa_g": 2.68,
+    "maior_que_5h": false,
+    "gcode": "15\\plate_1.gcode"
+  },
+  {
+    "peca": "Pe da base",
+    "tempo": "1h 12m 2s",
+    "segundos": 4322.0,
+    "massa_g": 10.91,
+    "maior_que_5h": false,
+    "gcode": "16\\plate_1.gcode"
+  },
+  {
+    "peca": "Retentor dos rolamentos Y",
+    "tempo": "24m 31s",
+    "segundos": 1471.0,
+    "massa_g": 3.46,
+    "maior_que_5h": false,
+    "gcode": "17\\plate_1.gcode"
+  },
+  {
+    "peca": "Retentor esquerdo dos rolamentos X",
+    "tempo": "31m 25s",
+    "segundos": 1885.0,
+    "massa_g": 4.61,
+    "maior_que_5h": false,
+    "gcode": "18\\plate_1.gcode"
+  },
+  {
+    "peca": "Guia de cabos sob o tampo",
+    "tempo": "9m 58s",
+    "segundos": 598.0,
+    "massa_g": 1.13,
+    "maior_que_5h": false,
+    "gcode": "19\\plate_1.gcode"
+  },
+  {
+    "peca": "Placa do motor Y",
+    "tempo": "1h 23m 7s",
+    "segundos": 4987.0,
+    "massa_g": 13.28,
+    "maior_que_5h": false,
+    "gcode": "20\\plate_1.gcode"
+  },
+  {
+    "peca": "Retentor direito dos rolamentos X",
+    "tempo": "30m 49s",
+    "segundos": 1849.0,
+    "massa_g": 4.68,
+    "maior_que_5h": false,
+    "gcode": "21\\plate_1.gcode"
+  },
+  {
+    "peca": "Base do tensor Y",
+    "tempo": "1h 12m 42s",
+    "segundos": 4362.0,
+    "massa_g": 10.66,
+    "maior_que_5h": false,
+    "gcode": "22\\plate_1.gcode"
+  },
+  {
+    "peca": "Alivio fixo dos cabos",
+    "tempo": "19m 51s",
+    "segundos": 1191.0,
+    "massa_g": 2.22,
+    "maior_que_5h": false,
+    "gcode": "23\\plate_1.gcode"
+  },
+  {
+    "peca": "Ancora da correia Y",
+    "tempo": "59m 30s",
+    "segundos": 3570.0,
+    "massa_g": 6.54,
+    "maior_que_5h": false,
+    "gcode": "24\\plate_1.gcode"
+  },
+  {
+    "peca": "Ancora da correia X",
+    "tempo": "34m 38s",
+    "segundos": 2078.0,
+    "massa_g": 3.82,
+    "maior_que_5h": false,
+    "gcode": "25\\plate_1.gcode"
+  },
+  {
+    "peca": "Apoio da haste Y",
+    "tempo": "1h 44m 53s",
+    "segundos": 6293.0,
+    "massa_g": 14.24,
+    "maior_que_5h": false,
+    "gcode": "26\\plate_1.gcode"
+  },
+  {
+    "peca": "Bandeja da eletronica",
+    "tempo": "4h 1m 0s",
+    "segundos": 14460.0,
+    "massa_g": 36.03,
+    "maior_que_5h": false,
+    "gcode": "27\\plate_1.gcode"
+  },
+  {
+    "peca": "Alojamento do fim de curso Y",
+    "tempo": "51m 34s",
+    "segundos": 3094.0,
+    "massa_g": 5.52,
+    "maior_que_5h": false,
+    "gcode": "28\\plate_1.gcode"
+  },
+  {
+    "peca": "Braco da ancora X",
+    "tempo": "1h 41m 13s",
+    "segundos": 6073.0,
+    "massa_g": 15.67,
+    "maior_que_5h": false,
+    "gcode": "29\\plate_1.gcode"
+  },
+  {
+    "peca": "Carro deslizante do tensor Y",
+    "tempo": "21m 14s",
+    "segundos": 1274.0,
+    "massa_g": 2.44,
+    "maior_que_5h": false,
+    "gcode": "30\\plate_1.gcode"
+  }
+]

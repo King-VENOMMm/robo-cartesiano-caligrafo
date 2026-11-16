@@ -20,10 +20,16 @@ convertidos no computador para G-code ou para um protocolo intermediário. O
 firmware começará com movimentos lineares e comandos equivalentes a `G0`, `G1`,
 `PEN_UP` e `PEN_DOWN`.
 
-## Estado atual
+## Protótipo A4 — revisão R09
 
-O projeto está na fase de concepção e organização. Ainda não há resultados
-experimentais registrados, nem CAD, firmware ou aplicação web finalizados.
+A revisão R09 reúne o CAD mecânico do protótipo, a lista de materiais e os arquivos de fabricação. O conjunto foi projetado para desenhar em papel A4 com uma caneta acionada por servo.
+
+- [Modelo montado em STEP](prototipo/R09/Robo%20Cartografico%20A4%20Montado.step)
+- [Projeto de impressão OrcaSlicer em 13 mesas](prototipo/R09/Robo%20Cartografico%20A4%20Desmontado.3mf) e [tempos estimados](prototipo/R09/Pecas/_Desenvolvimento/Impressao_ate5h_R09/Tempos%20e%20pecas%20por%20mesa.md)
+- [Lista de materiais](prototipo/R09/Lista%20de%20Materiais.xlsx) e [arquivos de peças](prototipo/R09/Pecas)
+- [Montagem e regulagens](prototipo/R09/Pecas/_Desenvolvimento/MONTAGEM_R09.md) e [arquitetura eletrônica](prototipo/R09/Pecas/_Desenvolvimento/ELETRONICA_R07.md)
+
+A montagem física e a calibração do protótipo estão pendentes. O pacote inclui um teste XY para GRBL. O firmware de controle do Calígrafo por ESP32 e a interface web ainda estão planejados.
 
 ## Estrutura do repositório
 

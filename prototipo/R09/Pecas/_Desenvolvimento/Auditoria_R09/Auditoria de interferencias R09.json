@@ -1,0 +1,974 @@
+{
+  "componentes_modelo": 176,
+  "envelopes_ferragens_suplementares": 358,
+  "interferencias_nao_previstas": [],
+  "contatos_previstos": [
+    {
+      "a": "11_Fim_curso_Y_REFERENCIA",
+      "b": "11_Alavanca_Y_REFERENCIA",
+      "mm3": 0.1539,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "02_Polia_Y_REFERENCIA",
+      "b": "02_Correia_Y_envelope",
+      "mm3": 56.0305,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "02_Polia_livre_Y_REFERENCIA",
+      "b": "02_Correia_Y_envelope",
+      "mm3": 56.0305,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "11_Fim_curso_X_REFERENCIA",
+      "b": "11_Alavanca_X_REFERENCIA",
+      "mm3": 0.1539,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX172238108",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX172238122",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX172250108",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX172250122",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX245238108",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX245238122",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX245250108",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Carro_X",
+      "b": "AUD_insertX245250122",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "07_Polia_X_REFERENCIA",
+      "b": "07_Correia_X_envelope",
+      "mm3": 56.0305,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "07_Polia_livre_X_REFERENCIA",
+      "b": "07_Correia_X_envelope",
+      "mm3": 56.0305,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    },
+    {
+      "a": "08_Painel_operador",
+      "b": "AUD_insertLid265-35",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "08_Painel_operador",
+      "b": "AUD_insertLid265-5",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "08_Painel_operador",
+      "b": "AUD_insertLid385-35",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "08_Painel_operador",
+      "b": "AUD_insertLid385-5",
+      "mm3": 16.5876,
+      "motivo": "Inserto termico OD4,6 em piloto4,2; interferencia de instalacao prevista"
+    },
+    {
+      "a": "09_Ponta_caneta_REFERENCIA",
+      "b": "11_Folha_A4_210x297",
+      "mm3": 0.1178,
+      "motivo": "Contato funcional nominal explicitamente identificado"
+    }
+  ],
+  "metodo": "Solidos exatos; porcas hexagonais com cilindro circunscrito conservador; sem exclusao por categoria de ferragem.",
+  "teste_fisico": false,
+  "posicoes_movimento": [
+    [
+      94.5,
+      21
+    ],
+    [
+      94.5,
+      25
+    ],
+    [
+      94.5,
+      166
+    ],
+    [
+      94.5,
+      328.5
+    ],
+    [
+      94.5,
+      335
+    ],
+    [
+      105,
+      21
+    ],
+    [
+      105,
+      25
+    ],
+    [
+      105,
+      166
+    ],
+    [
+      105,
+      328.5
+    ],
+    [
+      105,
+      335
+    ],
+    [
+      210,
+      21
+    ],
+    [
+      210,
+      25
+    ],
+    [
+      210,
+      166
+    ],
+    [
+      210,
+      328.5
+    ],
+    [
+      210,
+      335
+    ],
+    [
+      320,
+      21
+    ],
+    [
+      320,
+      25
+    ],
+    [
+      320,
+      166
+    ],
+    [
+      320,
+      328.5
+    ],
+    [
+      320,
+      335
+    ],
+    [
+      330,
+      21
+    ],
+    [
+      330,
+      25
+    ],
+    [
+      330,
+      166
+    ],
+    [
+      330,
+      328.5
+    ],
+    [
+      330,
+      335
+    ]
+  ],
+  "posicoes_tensores": [
+    [
+      "x",
+      0.0
+    ],
+    [
+      "x",
+      0.5
+    ],
+    [
+      "x",
+      1.0
+    ],
+    [
+      "x",
+      1.5
+    ],
+    [
+      "x",
+      2.0
+    ],
+    [
+      "x",
+      2.5
+    ],
+    [
+      "x",
+      3.0
+    ],
+    [
+      "x",
+      3.5
+    ],
+    [
+      "x",
+      4.0
+    ],
+    [
+      "x",
+      4.5
+    ],
+    [
+      "x",
+      5.0
+    ],
+    [
+      "x",
+      5.5
+    ],
+    [
+      "x",
+      6.0
+    ],
+    [
+      "y",
+      0.0
+    ],
+    [
+      "y",
+      0.5
+    ],
+    [
+      "y",
+      1.0
+    ],
+    [
+      "y",
+      1.5
+    ],
+    [
+      "y",
+      2.0
+    ],
+    [
+      "y",
+      2.5
+    ],
+    [
+      "y",
+      3.0
+    ],
+    [
+      "y",
+      3.5
+    ],
+    [
+      "y",
+      4.0
+    ],
+    [
+      "y",
+      4.5
+    ],
+    [
+      "y",
+      5.0
+    ],
+    [
+      "y",
+      5.5
+    ],
+    [
+      "y",
+      6.0
+    ]
+  ],
+  "posicoes_caneta": [
+    0,
+    1.5,
+    3,
+    4.5,
+    6
+  ],
+  "interferencias_movimento": [],
+  "contatos_funcionais_movimento": [
+    {
+      "xy": [
+        94.5,
+        21
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 3.1111
+    },
+    {
+      "xy": [
+        94.5,
+        21
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        94.5,
+        21
+      ],
+      "a": "11_Alavanca_X_REFERENCIA",
+      "b": "05_Carro_X",
+      "mm3": 2.9148
+    },
+    {
+      "xy": [
+        94.5,
+        21
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        94.5,
+        25
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 1.2229
+    },
+    {
+      "xy": [
+        94.5,
+        25
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        94.5,
+        25
+      ],
+      "a": "11_Alavanca_X_REFERENCIA",
+      "b": "05_Carro_X",
+      "mm3": 2.9148
+    },
+    {
+      "xy": [
+        94.5,
+        25
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        94.5,
+        166
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287
+    },
+    {
+      "xy": [
+        94.5,
+        166
+      ],
+      "a": "11_Alavanca_X_REFERENCIA",
+      "b": "05_Carro_X",
+      "mm3": 2.9148
+    },
+    {
+      "xy": [
+        94.5,
+        166
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        94.5,
+        328.5
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        94.5,
+        328.5
+      ],
+      "a": "11_Alavanca_X_REFERENCIA",
+      "b": "05_Carro_X",
+      "mm3": 2.9148
+    },
+    {
+      "xy": [
+        94.5,
+        328.5
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        94.5,
+        335
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        94.5,
+        335
+      ],
+      "a": "11_Alavanca_X_REFERENCIA",
+      "b": "05_Carro_X",
+      "mm3": 2.9148
+    },
+    {
+      "xy": [
+        94.5,
+        335
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        105,
+        21
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 3.1111
+    },
+    {
+      "xy": [
+        105,
+        21
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        105,
+        21
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        105,
+        25
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 1.2229
+    },
+    {
+      "xy": [
+        105,
+        25
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        105,
+        25
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        105,
+        166
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287
+    },
+    {
+      "xy": [
+        105,
+        166
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        105,
+        328.5
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        105,
+        328.5
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        105,
+        335
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        105,
+        335
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        210,
+        21
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 3.1111
+    },
+    {
+      "xy": [
+        210,
+        21
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        210,
+        21
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421
+    },
+    {
+      "xy": [
+        210,
+        25
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 1.2229
+    },
+    {
+      "xy": [
+        210,
+        25
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        210,
+        25
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421
+    },
+    {
+      "xy": [
+        210,
+        166
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287
+    },
+    {
+      "xy": [
+        210,
+        166
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421
+    },
+    {
+      "xy": [
+        210,
+        166
+      ],
+      "a": "09_Ponta_caneta_REFERENCIA",
+      "b": "11_Folha_A4_210x297",
+      "mm3": 0.1178
+    },
+    {
+      "xy": [
+        210,
+        328.5
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        210,
+        328.5
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421
+    },
+    {
+      "xy": [
+        210,
+        328.5
+      ],
+      "a": "09_Ponta_caneta_REFERENCIA",
+      "b": "11_Folha_A4_210x297",
+      "mm3": 0.0589
+    },
+    {
+      "xy": [
+        210,
+        335
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        210,
+        335
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 179.8421
+    },
+    {
+      "xy": [
+        320,
+        21
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 3.1111
+    },
+    {
+      "xy": [
+        320,
+        21
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        320,
+        21
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        320,
+        25
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 1.2229
+    },
+    {
+      "xy": [
+        320,
+        25
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        320,
+        25
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        320,
+        166
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287
+    },
+    {
+      "xy": [
+        320,
+        166
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        320,
+        166
+      ],
+      "a": "09_Ponta_caneta_REFERENCIA",
+      "b": "11_Folha_A4_210x297",
+      "mm3": 0.0589
+    },
+    {
+      "xy": [
+        320,
+        328.5
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        320,
+        328.5
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        320,
+        328.5
+      ],
+      "a": "09_Ponta_caneta_REFERENCIA",
+      "b": "11_Folha_A4_210x297",
+      "mm3": 0.0295
+    },
+    {
+      "xy": [
+        320,
+        335
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        320,
+        335
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        330,
+        21
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 3.1111
+    },
+    {
+      "xy": [
+        330,
+        21
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        330,
+        21
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        330,
+        25
+      ],
+      "a": "11_Alavanca_Y_REFERENCIA",
+      "b": "03_Lateral_integrada_Y_E",
+      "mm3": 1.2229
+    },
+    {
+      "xy": [
+        330,
+        25
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        330,
+        25
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        330,
+        166
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 26.0287
+    },
+    {
+      "xy": [
+        330,
+        166
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        330,
+        328.5
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        330,
+        328.5
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    },
+    {
+      "xy": [
+        330,
+        335
+      ],
+      "a": "02_Correia_Y_envelope",
+      "b": "03_Ancora_correia_Y",
+      "mm3": 27.8879
+    },
+    {
+      "xy": [
+        330,
+        335
+      ],
+      "a": "05_Ancora_correia_X",
+      "b": "07_Correia_X_envelope",
+      "mm3": 181.7013
+    }
+  ]
+}

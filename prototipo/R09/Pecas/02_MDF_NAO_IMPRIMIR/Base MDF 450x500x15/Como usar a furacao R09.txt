@@ -1,0 +1,2 @@
+Vista superior XY; origem canto inferior esquerdo da base. Recorte do motor abre na borda traseira.
+Unidades:mm. Os furos na aresta dos apoios exigem operacao separada; nao estao representados como furos passantes da face no DXF. Conferir escala1:1 e validar no STEP antes de cortar.

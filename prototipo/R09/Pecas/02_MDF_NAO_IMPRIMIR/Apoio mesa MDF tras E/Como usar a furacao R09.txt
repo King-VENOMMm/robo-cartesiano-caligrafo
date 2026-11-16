@@ -1,0 +1,2 @@
+Vista frontal XZ. Furo vertical pela aresta superior, x30, centro da espessura7,5; diametro4,5, profundidade50 mm.
+Unidades:mm. Os furos na aresta dos apoios exigem operacao separada; nao estao representados como furos passantes da face no DXF. Conferir escala1:1 e validar no STEP antes de cortar.

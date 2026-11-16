@@ -1,0 +1,31 @@
+﻿Peca;Quantidade na maquina;Situacao;Pendencia;Orientacao STL
+Alojamento do fim de curso Y;1;Teste de montagem R09;R07: suporte fixo com bolso D2F-01L-D3, dois M3 x25 na base e dois M2 x20 no sensor. Batente independente integrado. Regular sensor antes de energizar.;Como exportado, Z positivo
+Pe da base;4;Teste de montagem R09;"Envelope comercial; confirmar fabricante e tolerancias.";Face superior plana na mesa
+Placa do motor Y;1;Teste de montagem R09;"R08: motor fixo; quatro M4x30 unem a placa ao MDF, quatro M3 fixam o motor. Ajuste na polia livre dianteira.";Face superior plana na mesa
+Base do tensor Y;1;Teste de montagem R09;"R08: guia cativa; quatro M3x25 na madeira. Carro inserido por tras. M4x30 pela frente puxa o carro via porca quadrada; contraporca M4 trava. Curso 6 mm, polia Y de y47 ate y41.";Como exportado, Z positivo
+Carro deslizante do tensor Y;1;Teste de montagem R09;"R08: carro cativo com folga nominal 0,3 mm. Eixo M5 escareado montado antes de inserir por tras. Porca quadrada M4 inserida por cima no nariz. Polia y47 nominal, y41 tensionada; nao afrouxar eixo para ajustar.";Como exportado, Z positivo
+Lateral esquerda da ponte Y;1;Teste de montagem R09;"Alojamento nominal LM12UU; fazer cupom e ajustar ao rolamento real. R09: tampa axial removivel e M4 fora do alojamento; confirmar rolamento real.";Face externa esquerda na mesa
+Retentor dos rolamentos Y;2;Teste de montagem R09;R07: tampa removivel, quatro M3x16 e porcas quadradas M3 cativas na lateral.;Eixo dos furos em Z
+Espacador dos rolamentos Y;2;Teste de montagem R09;"Envelope comercial; confirmar fabricante e tolerancias.";Eixo dos furos em Z
+Lateral direita da ponte Y;1;Teste de montagem R09;"Alojamento nominal LM12UU; fazer cupom e ajustar ao rolamento real. R09: tampa axial removivel e M4 fora do alojamento; confirmar rolamento real.";Face externa direita na mesa
+Ancora da correia Y;1;Teste de montagem R09;"R07: mordente de 60 mm, passo 2 mm; quatro M3 verticais na travessa e quatro M3 transversais na tampa, desencontrados. Validar encaixe com a correia real.";Como exportado, Z positivo
+Tampa do mordente Y;1;Teste de montagem R09;R07: tampa de 60 mm, quatro M3 x 25 transversais com porcas, distribuidos ao longo da correia. Nao colar.;Como exportado, Z positivo
+Apoio da haste Y;4;Teste de montagem R09;Ajustar encaixe da haste e adicionar aperto conforme tolerancia de impressao.;Como exportado, Z positivo
+Carro X;1;Teste de montagem R09;R07: pares M3 alinhados ao braco e cabecote, na folga entre os rolamentos. Retencao dos LM8UU ainda precisa de validacao.;"Face direita na mesa; furos LM8UU verticais"
+Retentor esquerdo dos rolamentos X;1;Teste de montagem R09;R07: tampa axial removivel com quatro M3x16 e porcas quadradas M3.;Eixo dos furos em Z
+Retentor direito dos rolamentos X;1;Teste de montagem R09;R07: tampa axial removivel com quatro M3x16 e porcas quadradas M3.;Eixo dos furos em Z
+Espacador dos rolamentos X;2;Teste de montagem R09;"Envelope comercial; confirmar fabricante e tolerancias.";Eixo dos furos em Z
+Braco da ancora X;1;Teste de montagem R09;R07: quatro M3 x 40 ao carro e dois M3 x 30 ao mordente fixo.;Face superior plana na mesa
+Ancora da correia X;1;Teste de montagem R09;R07: mordente fixo passo 2 mm. Dois M3 verticais prendem ao braco e dois transversais apertam a tampa. Validar perfil da correia real.;Como exportado, Z positivo
+Tampa do mordente X;1;Teste de montagem R09;R07: tampa de pressao removivel com dois M3 x 25 e porcas. A correia nao depende de cola.;Como exportado, Z positivo
+Suporte do motor X;1;Teste de montagem R09;"R07: placa unica alongada; seis furos verticais coincidem com os furos existentes da lateral e travessa. Seis M4 x 120 ajustados a cerca de 114 mm, com porcas e arruelas compartilham a pilha completa. Sem orelha lateral.";Face superior plana na mesa
+Suporte do tensor X;1;Teste de montagem R09;"R07: placa unica alongada; seis furos verticais coincidem com os furos existentes da lateral e travessa. Seis M4 x 120 ajustados a cerca de 114 mm, com porcas e arruelas. Regulagem de tensao ainda pendente.";Face superior plana na mesa
+Bandeja da eletronica;1;Teste de montagem R09;"R07: bandeja universal ventilada sob tampo, acima da travessa. Modulos presos por perfboard e amarras; conferir placa ESP32 real.";Como exportado, Z positivo
+Caixa do painel;1;Teste de montagem R09;R07: caixa frontal, LCD1602 existente, encoder EC11, microSD, chave DC e USB-C. Furações de modulos sao interfaces nominais a conferir.;Como exportado, Z positivo
+Manopla do encoder;1;Teste de montagem R09;"Envelope comercial; confirmar fabricante e tolerancias.";Eixo dos furos em Z
+Alivio fixo dos cabos;1;Teste de montagem R09;"R07: ancora fixa do laco Y, lado externo direito. Duas amarras pelo rasgo; nao tensionar conectores.";Como exportado, Z positivo
+Tampa do painel;1;Teste de montagem R09;"R07: tampa removivel do painel; prender por quatro M3 em abas/cantos.";Como exportado, Z positivo
+Guia de cabos sob o tampo;3;Teste de montagem R09;"R07: guia sob tampo; passar cabos com amarras e manter acima da travessa. Folgas do chicote flexivel exigem ensaio real.";"Face superior plana na mesa; canal para cima"
+Suporte integrado do cabecote;1;Teste de montagem R09;"R07: par de fixacao M3 coaxial ao carro; usar dois M3 x 40 com porcas.";Como exportado, Z positivo
+Cursor da caneta;1;Teste de montagem R09;"Prototipo de encaixe e pressao. Ajustar ao diametro da caneta; mola/limitador e acionamento servo requerem teste.";Como exportado, Z positivo
+Suporte do SG90;1;Teste de montagem R09;"R07: janela ajustavel para SG90 de eixo lateral. Confirmar orelhas e horn no servo existente; dois M3x20 prendem a flange ao cabecote.";Face superior plana na mesa

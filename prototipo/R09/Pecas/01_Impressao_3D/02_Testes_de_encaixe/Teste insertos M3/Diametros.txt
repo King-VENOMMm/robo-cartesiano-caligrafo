@@ -1,0 +1,2 @@
+Da esquerda para direita: 4 mm, 4.2 mm, 4.4 mm.
+Opcional: nao integra as40 pecas da montagem nem o total de filamento. Verificar no mesmo material e perfil que sera usado nas pecas.

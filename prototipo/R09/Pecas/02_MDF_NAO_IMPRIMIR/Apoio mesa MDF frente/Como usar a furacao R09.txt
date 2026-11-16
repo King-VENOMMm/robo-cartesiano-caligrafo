@@ -1,0 +1,2 @@
+Vista frontal XZ. Origem x60,z15. Dois furos do painel atravessam espessura15. Furos verticais da mesa saem pela aresta superior em x30,165,300, centrados7,5 mm na espessura; perfurar50 mm.
+Unidades:mm. Os furos na aresta dos apoios exigem operacao separada; nao estao representados como furos passantes da face no DXF. Conferir escala1:1 e validar no STEP antes de cortar.

@@ -1,0 +1,728 @@
+{
+  "mesas": 13,
+  "mesas_ate5h": 9,
+  "excecoes_aprovadas": 4,
+  "layout": [
+    {
+      "nome": "Alojamento do fim de curso Y.stl",
+      "objeto": "4",
+      "instancia": 0,
+      "mesa": 1,
+      "bbox_local_mm": [
+        80.0,
+        150.0,
+        99.0,
+        184.0
+      ],
+      "tempo_individual_s": 3094.0,
+      "excecao": false
+    },
+    {
+      "nome": "Apoio da haste Y.stl",
+      "objeto": "10",
+      "instancia": 2,
+      "mesa": 1,
+      "bbox_local_mm": [
+        80.0,
+        196.0,
+        116.0,
+        212.0
+      ],
+      "tempo_individual_s": 6293.0,
+      "excecao": false
+    },
+    {
+      "nome": "Guia de cabos sob o tampo.stl",
+      "objeto": "30",
+      "instancia": 1,
+      "mesa": 1,
+      "bbox_local_mm": [
+        128.0,
+        182.7999992,
+        140.0,
+        196.7999992
+      ],
+      "tempo_individual_s": 598.0,
+      "excecao": false
+    },
+    {
+      "nome": "Tampa do painel.stl",
+      "objeto": "60",
+      "instancia": 0,
+      "mesa": 1,
+      "bbox_local_mm": [
+        80.0,
+        8.0,
+        120.0,
+        138.0
+      ],
+      "tempo_individual_s": 3867.0,
+      "excecao": false
+    },
+    {
+      "nome": "Espacador dos rolamentos Y.stl",
+      "objeto": "28",
+      "instancia": 1,
+      "mesa": 1,
+      "bbox_local_mm": [
+        111.0,
+        150.0,
+        131.7999992,
+        170.7999992
+      ],
+      "tempo_individual_s": 3014.0,
+      "excecao": false
+    },
+    {
+      "nome": "Espacador dos rolamentos X.stl",
+      "objeto": "26",
+      "instancia": 0,
+      "mesa": 2,
+      "bbox_local_mm": [
+        194.5999999,
+        73.0,
+        209.4000001,
+        87.8000002
+      ],
+      "tempo_individual_s": 1227.0,
+      "excecao": false
+    },
+    {
+      "nome": "Guia de cabos sob o tampo.stl",
+      "objeto": "30",
+      "instancia": 0,
+      "mesa": 2,
+      "bbox_local_mm": [
+        194.5999999,
+        99.8000002,
+        208.5999999,
+        111.8000002
+      ],
+      "tempo_individual_s": 598.0,
+      "excecao": false
+    },
+    {
+      "nome": "Pe da base.stl",
+      "objeto": "38",
+      "instancia": 0,
+      "mesa": 2,
+      "bbox_local_mm": [
+        112.5999999,
+        119.0,
+        140.5999999,
+        147.0
+      ],
+      "tempo_individual_s": 4322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Placa do motor Y.stl",
+      "objeto": "40",
+      "instancia": 0,
+      "mesa": 2,
+      "bbox_local_mm": [
+        10.5999999,
+        73.0,
+        100.5999999,
+        133.0
+      ],
+      "tempo_individual_s": 4987.0,
+      "excecao": false
+    },
+    {
+      "nome": "Retentor dos rolamentos Y.stl",
+      "objeto": "44",
+      "instancia": 1,
+      "mesa": 2,
+      "bbox_local_mm": [
+        112.5999999,
+        73.0,
+        150.5999999,
+        107.0
+      ],
+      "tempo_individual_s": 1471.0,
+      "excecao": false
+    },
+    {
+      "nome": "Suporte do SG90.stl",
+      "objeto": "50",
+      "instancia": 0,
+      "mesa": 2,
+      "bbox_local_mm": [
+        162.5999999,
+        73.0,
+        182.5999999,
+        131.0
+      ],
+      "tempo_individual_s": 3713.0,
+      "excecao": false
+    },
+    {
+      "nome": "Alivio fixo dos cabos.stl",
+      "objeto": "2",
+      "instancia": 0,
+      "mesa": 3,
+      "bbox_local_mm": [
+        93.0,
+        147.6000004,
+        108.0,
+        177.6000004
+      ],
+      "tempo_individual_s": 1191.0,
+      "excecao": false
+    },
+    {
+      "nome": "Apoio da haste Y.stl",
+      "objeto": "10",
+      "instancia": 1,
+      "mesa": 3,
+      "bbox_local_mm": [
+        93.0,
+        99.6000004,
+        109.0,
+        135.6000004
+      ],
+      "tempo_individual_s": 6293.0,
+      "excecao": false
+    },
+    {
+      "nome": "Espacador dos rolamentos Y.stl",
+      "objeto": "28",
+      "instancia": 0,
+      "mesa": 3,
+      "bbox_local_mm": [
+        93.0,
+        189.6000004,
+        113.7999992,
+        210.3999996
+      ],
+      "tempo_individual_s": 3014.0,
+      "excecao": false
+    },
+    {
+      "nome": "Pe da base.stl",
+      "objeto": "38",
+      "instancia": 1,
+      "mesa": 3,
+      "bbox_local_mm": [
+        93.0,
+        59.6000004,
+        121.0,
+        87.6000004
+      ],
+      "tempo_individual_s": 4322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Retentor dos rolamentos Y.stl",
+      "objeto": "44",
+      "instancia": 0,
+      "mesa": 3,
+      "bbox_local_mm": [
+        93.0,
+        9.600000399999999,
+        127.0,
+        47.6000004
+      ],
+      "tempo_individual_s": 1471.0,
+      "excecao": false
+    },
+    {
+      "nome": "Bandeja da eletronica.stl",
+      "objeto": "12",
+      "instancia": 0,
+      "mesa": 4,
+      "bbox_local_mm": [
+        33.5999999,
+        65.0,
+        133.5999999,
+        155.0
+      ],
+      "tempo_individual_s": 14460.0,
+      "excecao": false
+    },
+    {
+      "nome": "Espacador dos rolamentos X.stl",
+      "objeto": "26",
+      "instancia": 1,
+      "mesa": 4,
+      "bbox_local_mm": [
+        145.5999999,
+        65.0,
+        160.4000001,
+        79.8000002
+      ],
+      "tempo_individual_s": 1227.0,
+      "excecao": false
+    },
+    {
+      "nome": "Guia de cabos sob o tampo.stl",
+      "objeto": "30",
+      "instancia": 2,
+      "mesa": 4,
+      "bbox_local_mm": [
+        172.4000001,
+        65.0,
+        186.4000001,
+        77.0
+      ],
+      "tempo_individual_s": 598.0,
+      "excecao": false
+    },
+    {
+      "nome": "Carro deslizante do tensor Y.stl",
+      "objeto": "20",
+      "instancia": 0,
+      "mesa": 5,
+      "bbox_local_mm": [
+        139.2999992,
+        15.0,
+        176.7000008,
+        34.0
+      ],
+      "tempo_individual_s": 1274.0,
+      "excecao": false
+    },
+    {
+      "nome": "Retentor direito dos rolamentos X.stl",
+      "objeto": "42",
+      "instancia": 0,
+      "mesa": 5,
+      "bbox_local_mm": [
+        43.2999992,
+        145.0,
+        127.2999992,
+        169.0
+      ],
+      "tempo_individual_s": 1849.0,
+      "excecao": false
+    },
+    {
+      "nome": "Retentor esquerdo dos rolamentos X.stl",
+      "objeto": "46",
+      "instancia": 0,
+      "mesa": 5,
+      "bbox_local_mm": [
+        43.2999992,
+        181.0,
+        127.2999992,
+        205.0
+      ],
+      "tempo_individual_s": 1885.0,
+      "excecao": false
+    },
+    {
+      "nome": "Suporte do tensor X.stl",
+      "objeto": "52",
+      "instancia": 0,
+      "mesa": 5,
+      "bbox_local_mm": [
+        43.2999992,
+        15.0,
+        85.29999920000003,
+        133.0
+      ],
+      "tempo_individual_s": 11322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Ancora da correia X.stl",
+      "objeto": "6",
+      "instancia": 0,
+      "mesa": 6,
+      "bbox_local_mm": [
+        96.0,
+        111.8499994,
+        126.0,
+        125.7999992
+      ],
+      "tempo_individual_s": 2078.0,
+      "excecao": false
+    },
+    {
+      "nome": "Ancora da correia Y.stl",
+      "objeto": "8",
+      "instancia": 0,
+      "mesa": 6,
+      "bbox_local_mm": [
+        96.0,
+        90.3999996,
+        156.0,
+        99.8499994
+      ],
+      "tempo_individual_s": 3570.0,
+      "excecao": false
+    },
+    {
+      "nome": "Apoio da haste Y.stl",
+      "objeto": "10",
+      "instancia": 0,
+      "mesa": 6,
+      "bbox_local_mm": [
+        168.0,
+        90.3999996,
+        204.0,
+        106.3999996
+      ],
+      "tempo_individual_s": 6293.0,
+      "excecao": false
+    },
+    {
+      "nome": "Base do tensor Y.stl",
+      "objeto": "14",
+      "instancia": 0,
+      "mesa": 6,
+      "bbox_local_mm": [
+        16.0,
+        90.3999996,
+        84.0,
+        129.6000004
+      ],
+      "tempo_individual_s": 4362.0,
+      "excecao": false
+    },
+    {
+      "nome": "Apoio da haste Y.stl",
+      "objeto": "10",
+      "instancia": 3,
+      "mesa": 7,
+      "bbox_local_mm": [
+        90.0,
+        175.5,
+        106.0,
+        211.5
+      ],
+      "tempo_individual_s": 6293.0,
+      "excecao": false
+    },
+    {
+      "nome": "Braco da ancora X.stl",
+      "objeto": "16",
+      "instancia": 0,
+      "mesa": 7,
+      "bbox_local_mm": [
+        90.0,
+        8.5,
+        130.0,
+        91.5
+      ],
+      "tempo_individual_s": 6073.0,
+      "excecao": false
+    },
+    {
+      "nome": "Tampa do mordente X.stl",
+      "objeto": "56",
+      "instancia": 0,
+      "mesa": 7,
+      "bbox_local_mm": [
+        108.9000001,
+        103.5,
+        115.8000002,
+        133.5
+      ],
+      "tempo_individual_s": 1322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Tampa do mordente Y.stl",
+      "objeto": "58",
+      "instancia": 0,
+      "mesa": 7,
+      "bbox_local_mm": [
+        90.0,
+        103.5,
+        96.9000001,
+        163.5
+      ],
+      "tempo_individual_s": 2388.0,
+      "excecao": false
+    },
+    {
+      "nome": "Pe da base.stl",
+      "objeto": "38",
+      "instancia": 3,
+      "mesa": 8,
+      "bbox_local_mm": [
+        85.0,
+        172.5,
+        113.0,
+        200.5
+      ],
+      "tempo_individual_s": 4322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Suporte integrado do cabecote.stl",
+      "objeto": "54",
+      "instancia": 0,
+      "mesa": 8,
+      "bbox_local_mm": [
+        85.0,
+        19.5,
+        135.0,
+        95.5
+      ],
+      "tempo_individual_s": 9130.0,
+      "excecao": false
+    },
+    {
+      "nome": "Cursor da caneta.stl",
+      "objeto": "24",
+      "instancia": 0,
+      "mesa": 8,
+      "bbox_local_mm": [
+        85.0,
+        107.5,
+        105.0,
+        160.5
+      ],
+      "tempo_individual_s": 2625.0,
+      "excecao": false
+    },
+    {
+      "nome": "Manopla do encoder.stl",
+      "objeto": "36",
+      "instancia": 0,
+      "mesa": 9,
+      "bbox_local_mm": [
+        189.0,
+        84.0,
+        211.0,
+        106.0
+      ],
+      "tempo_individual_s": 1291.0,
+      "excecao": false
+    },
+    {
+      "nome": "Pe da base.stl",
+      "objeto": "38",
+      "instancia": 2,
+      "mesa": 9,
+      "bbox_local_mm": [
+        149.0,
+        84.0,
+        177.0,
+        112.0
+      ],
+      "tempo_individual_s": 4322.0,
+      "excecao": false
+    },
+    {
+      "nome": "Suporte do motor X.stl",
+      "objeto": "48",
+      "instancia": 0,
+      "mesa": 9,
+      "bbox_local_mm": [
+        9.0,
+        84.0,
+        137.0,
+        136.0
+      ],
+      "tempo_individual_s": 10682.0,
+      "excecao": false
+    },
+    {
+      "nome": "Lateral esquerda da ponte Y.stl",
+      "objeto": "34",
+      "instancia": 0,
+      "mesa": 10,
+      "bbox_local_mm": [
+        61.5,
+        52.0,
+        158.5,
+        168.0
+      ],
+      "tempo_individual_s": 48641.0,
+      "excecao": true
+    },
+    {
+      "nome": "Lateral direita da ponte Y.stl",
+      "objeto": "32",
+      "instancia": 0,
+      "mesa": 11,
+      "bbox_local_mm": [
+        61.5,
+        60.0,
+        158.5,
+        160.0
+      ],
+      "tempo_individual_s": 46996.0,
+      "excecao": true
+    },
+    {
+      "nome": "Caixa do painel.stl",
+      "objeto": "18",
+      "instancia": 0,
+      "mesa": 12,
+      "bbox_local_mm": [
+        90.0,
+        45.0,
+        130.0,
+        175.0
+      ],
+      "tempo_individual_s": 26451.0,
+      "excecao": true
+    },
+    {
+      "nome": "Carro X.stl",
+      "objeto": "22",
+      "instancia": 0,
+      "mesa": 13,
+      "bbox_local_mm": [
+        68.0,
+        98.0,
+        152.0,
+        122.0
+      ],
+      "tempo_individual_s": 25198.0,
+      "excecao": true
+    }
+  ],
+  "resumo": [
+    {
+      "mesa": 1,
+      "nome": "01 - 4h41",
+      "tempo_soma_individual_s": 16866.0,
+      "pecas": [
+        "Alojamento do fim de curso Y.stl",
+        "Apoio da haste Y.stl",
+        "Guia de cabos sob o tampo.stl",
+        "Tampa do painel.stl",
+        "Espacador dos rolamentos Y.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 2,
+      "nome": "02 - 4h31",
+      "tempo_soma_individual_s": 16318.0,
+      "pecas": [
+        "Espacador dos rolamentos X.stl",
+        "Guia de cabos sob o tampo.stl",
+        "Pe da base.stl",
+        "Placa do motor Y.stl",
+        "Retentor dos rolamentos Y.stl",
+        "Suporte do SG90.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 3,
+      "nome": "03 - 4h31",
+      "tempo_soma_individual_s": 16291.0,
+      "pecas": [
+        "Alivio fixo dos cabos.stl",
+        "Apoio da haste Y.stl",
+        "Espacador dos rolamentos Y.stl",
+        "Pe da base.stl",
+        "Retentor dos rolamentos Y.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 4,
+      "nome": "04 - 4h31",
+      "tempo_soma_individual_s": 16285.0,
+      "pecas": [
+        "Bandeja da eletronica.stl",
+        "Espacador dos rolamentos X.stl",
+        "Guia de cabos sob o tampo.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 5,
+      "nome": "05 - 4h32",
+      "tempo_soma_individual_s": 16330.0,
+      "pecas": [
+        "Carro deslizante do tensor Y.stl",
+        "Retentor direito dos rolamentos X.stl",
+        "Retentor esquerdo dos rolamentos X.stl",
+        "Suporte do tensor X.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 6,
+      "nome": "06 - 4h31",
+      "tempo_soma_individual_s": 16303.0,
+      "pecas": [
+        "Ancora da correia X.stl",
+        "Ancora da correia Y.stl",
+        "Apoio da haste Y.stl",
+        "Base do tensor Y.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 7,
+      "nome": "07 - 4h27",
+      "tempo_soma_individual_s": 16076.0,
+      "pecas": [
+        "Apoio da haste Y.stl",
+        "Braco da ancora X.stl",
+        "Tampa do mordente X.stl",
+        "Tampa do mordente Y.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 8,
+      "nome": "08 - 4h27",
+      "tempo_soma_individual_s": 16077.0,
+      "pecas": [
+        "Pe da base.stl",
+        "Suporte integrado do cabecote.stl",
+        "Cursor da caneta.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 9,
+      "nome": "09 - 4h31",
+      "tempo_soma_individual_s": 16295.0,
+      "pecas": [
+        "Manopla do encoder.stl",
+        "Pe da base.stl",
+        "Suporte do motor X.stl"
+      ],
+      "excecao": false
+    },
+    {
+      "mesa": 10,
+      "nome": "EXCECAO - 10 - 13h30",
+      "tempo_soma_individual_s": 48641.0,
+      "pecas": [
+        "Lateral esquerda da ponte Y.stl"
+      ],
+      "excecao": true
+    },
+    {
+      "mesa": 11,
+      "nome": "EXCECAO - 11 - 13h03",
+      "tempo_soma_individual_s": 46996.0,
+      "pecas": [
+        "Lateral direita da ponte Y.stl"
+      ],
+      "excecao": true
+    },
+    {
+      "mesa": 12,
+      "nome": "EXCECAO - 12 - 7h20",
+      "tempo_soma_individual_s": 26451.0,
+      "pecas": [
+        "Caixa do painel.stl"
+      ],
+      "excecao": true
+    },
+    {
+      "mesa": 13,
+      "nome": "EXCECAO - 13 - 6h59",
+      "tempo_soma_individual_s": 25198.0,
+      "pecas": [
+        "Carro X.stl"
+      ],
+      "excecao": true
+    }
+  ]
+}

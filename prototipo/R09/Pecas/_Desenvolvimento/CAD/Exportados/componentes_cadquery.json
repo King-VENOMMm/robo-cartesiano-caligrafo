@@ -1,0 +1,1234 @@
+[
+  {
+    "nome": "01_Base_MDF_450x500x15",
+    "tipo": "mdf",
+    "etapa": 1,
+    "nota": "Chapa com janela do motor Y; conferir plano de furacao antes de cortar.",
+    "volume_mm3": 3334673.0132160266
+  },
+  {
+    "nome": "01_Alojamento_fim_curso_Y",
+    "tipo": "impresso",
+    "etapa": 1,
+    "nota": "R07: suporte fixo com bolso D2F-01L-D3, dois M3 x25 na base e dois M2 x20 no sensor. Batente independente integrado. Regular sensor antes de energizar.",
+    "volume_mm3": 4663.230952275087
+  },
+  {
+    "nome": "11_Fim_curso_Y_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 1,
+    "nota": "R07: OMRON D2F-01L-D3, COM/NC. Ajuste vertical de +/-1,5 mm; a rampa limita a deflexao adicional.",
+    "volume_mm3": 438.4646055142133
+  },
+  {
+    "nome": "11_Alavanca_Y_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 1,
+    "nota": "Envelope aproximado da alavanca livre; movimento elastico nao simulado.",
+    "volume_mm3": 10.620000000000093
+  },
+  {
+    "nome": "01_Pe_80_50",
+    "tipo": "impresso",
+    "etapa": 1,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22924.79064186727
+  },
+  {
+    "nome": "01_Pe_80_450",
+    "tipo": "impresso",
+    "etapa": 1,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22924.79064186726
+  },
+  {
+    "nome": "01_Pe_370_50",
+    "tipo": "impresso",
+    "etapa": 1,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22924.790641867276
+  },
+  {
+    "nome": "01_Pe_370_450",
+    "tipo": "impresso",
+    "etapa": 1,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22924.79064186727
+  },
+  {
+    "nome": "02_Placa_motor_Y",
+    "tipo": "impresso",
+    "etapa": 2,
+    "nota": "R08: motor fixo; quatro M4x30 unem a placa ao MDF, quatro M3 fixam o motor. Ajuste na polia livre dianteira.",
+    "volume_mm3": 23007.541855512347
+  },
+  {
+    "nome": "02_M4_motor_Y_187_462",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 499.13624080234763
+  },
+  {
+    "nome": "02_M4_motor_Y_187_474",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 499.13624080234763
+  },
+  {
+    "nome": "02_M4_motor_Y_263_462",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 499.1362408023475
+  },
+  {
+    "nome": "02_M4_motor_Y_263_474",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 499.1362408023475
+  },
+  {
+    "nome": "02_NEMA17_Y_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 2,
+    "nota": "Envelope NEMA17 42 x 42 x 40; conferir comprimento, eixo e conector dos motores existentes.",
+    "volume_mm3": 71610.86274262577
+  },
+  {
+    "nome": "02_Polia_Y_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 2,
+    "nota": "Polia GT2 20 dentes: envelope; diametro primitivo 12,732 mm. Dentes e prisioneiro omitidos.",
+    "volume_mm3": 1919.2931998576114
+  },
+  {
+    "nome": "02_Base_tensor_Y",
+    "tipo": "impresso",
+    "etapa": 2,
+    "nota": "R08: guia cativa; quatro M3x25 na madeira. Carro inserido por tras. M4x30 pela frente puxa o carro via porca quadrada; contraporca M4 trava. Curso 6 mm, polia Y de y47 ate y41.",
+    "volume_mm3": 14311.663348058411
+  },
+  {
+    "nome": "02_M3_base_tensor_Y_196_22",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493232
+  },
+  {
+    "nome": "02_M3_base_tensor_Y_196_49",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493232
+  },
+  {
+    "nome": "02_M3_base_tensor_Y_254_22",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493232
+  },
+  {
+    "nome": "02_M3_base_tensor_Y_254_49",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493232
+  },
+  {
+    "nome": "02_Carro_tensor_Y",
+    "tipo": "impresso",
+    "etapa": 2,
+    "nota": "R08: carro cativo com folga nominal 0,3 mm. Eixo M5 escareado montado antes de inserir por tras. Porca quadrada M4 inserida por cima no nariz. Polia y47 nominal, y41 tensionada; nao afrouxar eixo para ajustar.",
+    "volume_mm3": 2751.531158358069
+  },
+  {
+    "nome": "02_Eixo_tensor_Y",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R08: M5x30 cabeca chata 90 graus, comprimento total. Cabeca rente por baixo do carro. Calcos M5 OD8: 2 mm abaixo da polia e 1 mm acima; porca superior apoia apenas o anel interno do rolamento.",
+    "volume_mm3": 654.4984694978737
+  },
+  {
+    "nome": "02_Polia_livre_Y_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 2,
+    "nota": "Polia GT2 20 dentes: envelope; diametro primitivo 12,732 mm. Dentes e prisioneiro omitidos.",
+    "volume_mm3": 1919.2931998576112
+  },
+  {
+    "nome": "02_M4_ajuste_Y",
+    "tipo": "parafuso",
+    "etapa": 2,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 499.13624080234604
+  },
+  {
+    "nome": "02_Correia_Y_envelope",
+    "tipo": "correia",
+    "etapa": 2,
+    "nota": "Envelope continuo; dentes e ancoragens finais pendentes.",
+    "volume_mm3": 7660.78956439024
+  },
+  {
+    "nome": "03_Travessa_inferior_MDF_440x80x6",
+    "tipo": "mdf",
+    "etapa": 3,
+    "nota": "R07: quatro furos M3 alinhados para fixar a ancora Y; montagem sem cola.",
+    "volume_mm3": 208935.03736046783
+  },
+  {
+    "nome": "03_Lateral_integrada_Y_E",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "Alojamento nominal LM12UU; fazer cupom e ajustar ao rolamento real. R09: tampa axial removivel e M4 fora do alojamento; confirmar rolamento real.",
+    "volume_mm3": 322733.8872284934
+  },
+  {
+    "nome": "11_Fim_curso_X_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 3,
+    "nota": "R07: OMRON D2F-01L-D3, COM/NC. Corpo nominal; alavanca separada. Instalar no alojamento antes da placa X e regular altura com rampa real.",
+    "volume_mm3": 438.46460551421444
+  },
+  {
+    "nome": "11_Alavanca_X_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 3,
+    "nota": "Envelope aproximado da alavanca livre; movimento elastico nao simulado.",
+    "volume_mm3": 10.619999999999857
+  },
+  {
+    "nome": "03_Tampa_LM12UU_E",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "R07: tampa removivel, quatro M3x16 e porcas quadradas M3 cativas na lateral.",
+    "volume_mm3": 4491.803597241334
+  },
+  {
+    "nome": "03_Espacador_LM12UU_E",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 7868.370128327924
+  },
+  {
+    "nome": "03_M3_tampa_LM12_E_17_34",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.6273090297391
+  },
+  {
+    "nome": "03_M3_tampa_LM12_E_17_60",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.6273090297391
+  },
+  {
+    "nome": "03_M3_tampa_LM12_E_43_34",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973914
+  },
+  {
+    "nome": "03_M3_tampa_LM12_E_43_60",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973914
+  },
+  {
+    "nome": "03_LM12UU_E_192",
+    "tipo": "aco",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 6997.897635871264
+  },
+  {
+    "nome": "03_LM12UU_E_260",
+    "tipo": "aco",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 6997.897635871264
+  },
+  {
+    "nome": "03_Lateral_integrada_Y_D",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "Alojamento nominal LM12UU; fazer cupom e ajustar ao rolamento real. R09: tampa axial removivel e M4 fora do alojamento; confirmar rolamento real.",
+    "volume_mm3": 327144.6473145356
+  },
+  {
+    "nome": "03_Tampa_LM12UU_D",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "R07: tampa removivel, quatro M3x16 e porcas quadradas M3 cativas na lateral.",
+    "volume_mm3": 4491.803597241334
+  },
+  {
+    "nome": "03_Espacador_LM12UU_D",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 7868.37012832793
+  },
+  {
+    "nome": "03_M3_tampa_LM12_D_407_34",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973905
+  },
+  {
+    "nome": "03_M3_tampa_LM12_D_407_60",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973902
+  },
+  {
+    "nome": "03_M3_tampa_LM12_D_433_34",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973905
+  },
+  {
+    "nome": "03_M3_tampa_LM12_D_433_60",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973902
+  },
+  {
+    "nome": "03_LM12UU_D_192",
+    "tipo": "aco",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 6997.897635871264
+  },
+  {
+    "nome": "03_LM12UU_D_260",
+    "tipo": "aco",
+    "etapa": 3,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 6997.897635871264
+  },
+  {
+    "nome": "03_Ancora_correia_Y",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "R07: mordente de 60 mm, passo 2 mm; quatro M3 verticais na travessa e quatro M3 transversais na tampa, desencontrados. Validar encaixe com a correia real.",
+    "volume_mm3": 7279.926507688562
+  },
+  {
+    "nome": "03_Tampa_mordente_Y",
+    "tipo": "impresso",
+    "etapa": 3,
+    "nota": "R07: tampa de 60 mm, quatro M3 x 25 transversais com porcas, distribuidos ao longo da correia. Nao colar.",
+    "volume_mm3": 5959.41400357907
+  },
+  {
+    "nome": "03_M3_ancora_Y_215",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493243
+  },
+  {
+    "nome": "03_M3_ancora_Y_230",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493243
+  },
+  {
+    "nome": "03_M3_ancora_Y_250",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493243
+  },
+  {
+    "nome": "03_M3_ancora_Y_265",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.2445602649322
+  },
+  {
+    "nome": "03_M3_tampa_Y_221",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.2445602649326
+  },
+  {
+    "nome": "03_M3_tampa_Y_236",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.2445602649326
+  },
+  {
+    "nome": "03_M3_tampa_Y_244",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.2445602649326
+  },
+  {
+    "nome": "03_M3_tampa_Y_259",
+    "tipo": "parafuso",
+    "etapa": 3,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 228.24456026493232
+  },
+  {
+    "nome": "04_Haste_Y_E_12x500",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 56548.66776461628
+  },
+  {
+    "nome": "04_Colar_12_E_5",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3158.8085813314656
+  },
+  {
+    "nome": "04_Colar_12_E_483",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3158.8085813314656
+  },
+  {
+    "nome": "04_Apoio_Y_E_frente",
+    "tipo": "impresso",
+    "etapa": 4,
+    "nota": "Ajustar encaixe da haste e adicionar aperto conforme tolerancia de impressao.",
+    "volume_mm3": 22618.233244966934
+  },
+  {
+    "nome": "04_Apoio_Y_E_tras",
+    "tipo": "impresso",
+    "etapa": 4,
+    "nota": "Ajustar encaixe da haste e adicionar aperto conforme tolerancia de impressao.",
+    "volume_mm3": 22618.233244966934
+  },
+  {
+    "nome": "04_Haste_Y_D_12x500",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 56548.6677646163
+  },
+  {
+    "nome": "04_Colar_12_D_5",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3158.808581331464
+  },
+  {
+    "nome": "04_Colar_12_D_483",
+    "tipo": "aco",
+    "etapa": 4,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3158.808581331464
+  },
+  {
+    "nome": "04_Apoio_Y_D_frente",
+    "tipo": "impresso",
+    "etapa": 4,
+    "nota": "Ajustar encaixe da haste e adicionar aperto conforme tolerancia de impressao.",
+    "volume_mm3": 22618.233244966934
+  },
+  {
+    "nome": "04_Apoio_Y_D_tras",
+    "tipo": "impresso",
+    "etapa": 4,
+    "nota": "Ajustar encaixe da haste e adicionar aperto conforme tolerancia de impressao.",
+    "volume_mm3": 22618.233244966934
+  },
+  {
+    "nome": "05_Carro_X",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: pares M3 alinhados ao braco e cabecote, na folga entre os rolamentos. Retencao dos LM8UU ainda precisa de validacao.",
+    "volume_mm3": 113863.87139599088
+  },
+  {
+    "nome": "05_Tampa_LM8UU_172",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: tampa axial removivel com quatro M3x16 e porcas quadradas M3.",
+    "volume_mm3": 5371.431277784257
+  },
+  {
+    "nome": "05_M3_tampa_172_238_108",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_172_238_122",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_172_250_108",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_172_250_122",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_Tampa_LM8UU_245",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: tampa axial removivel com quatro M3x16 e porcas quadradas M3.",
+    "volume_mm3": 5590.521277784255
+  },
+  {
+    "nome": "05_M3_tampa_245_238_108",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_245_238_122",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_245_250_108",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_M3_tampa_245_250_122",
+    "tipo": "parafuso",
+    "etapa": 5,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 164.62730902973922
+  },
+  {
+    "nome": "05_Espacador_LM8UU_210",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 2506.8024420054408
+  },
+  {
+    "nome": "05_Espacador_LM8UU_270",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 2506.8024420054435
+  },
+  {
+    "nome": "05_LM8UU_175_210",
+    "tipo": "aco",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3034.7785033677415
+  },
+  {
+    "nome": "05_LM8UU_221_210",
+    "tipo": "aco",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3034.7785033677415
+  },
+  {
+    "nome": "05_LM8UU_175_270",
+    "tipo": "aco",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3034.7785033677405
+  },
+  {
+    "nome": "05_LM8UU_221_270",
+    "tipo": "aco",
+    "etapa": 5,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3034.7785033677405
+  },
+  {
+    "nome": "05_Braco_ancora_X",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: quatro M3 x 40 ao carro e dois M3 x 30 ao mordente fixo.",
+    "volume_mm3": 29292.198267094027
+  },
+  {
+    "nome": "05_Ancora_correia_X",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: mordente fixo passo 2 mm. Dois M3 verticais prendem ao braco e dois transversais apertam a tampa. Validar perfil da correia real.",
+    "volume_mm3": 4353.699049326455
+  },
+  {
+    "nome": "05_Tampa_mordente_X",
+    "tipo": "impresso",
+    "etapa": 5,
+    "nota": "R07: tampa de pressao removivel com dois M3 x 25 e porcas. A correia nao depende de cola.",
+    "volume_mm3": 2979.707001789521
+  },
+  {
+    "nome": "06_Colar_8_210_0",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 1186.0140585832187
+  },
+  {
+    "nome": "06_Colar_8_210_442",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 1186.0140585832187
+  },
+  {
+    "nome": "06_Haste_X_8x450_210",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22619.4671058465
+  },
+  {
+    "nome": "06_Colar_8_270_0",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 1186.0140585832182
+  },
+  {
+    "nome": "06_Colar_8_270_442",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 1186.0140585832182
+  },
+  {
+    "nome": "06_Haste_X_8x450_270",
+    "tipo": "aco",
+    "etapa": 6,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 22619.4671058465
+  },
+  {
+    "nome": "07_Suporte_motor_X",
+    "tipo": "impresso",
+    "etapa": 7,
+    "nota": "R07: placa unica alongada; seis furos verticais coincidem com os furos existentes da lateral e travessa. Seis M4 x 120 ajustados a cerca de 114 mm, com porcas e arruelas compartilham a pilha completa. Sem orelha lateral.",
+    "volume_mm3": 46644.69010180679
+  },
+  {
+    "nome": "07_NEMA17_X_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 7,
+    "nota": "Envelope NEMA17 42 x 42 x 40; conferir comprimento, eixo e conector dos motores existentes.",
+    "volume_mm3": 71610.86274262577
+  },
+  {
+    "nome": "07_Polia_X_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 7,
+    "nota": "Polia GT2 20 dentes: envelope; diametro primitivo 12,732 mm. Dentes e prisioneiro omitidos.",
+    "volume_mm3": 1919.2931998576141
+  },
+  {
+    "nome": "07_Suporte_tensor_X",
+    "tipo": "impresso",
+    "etapa": 7,
+    "nota": "R07: placa unica alongada; seis furos verticais coincidem com os furos existentes da lateral e travessa. Seis M4 x 120 ajustados a cerca de 114 mm, com porcas e arruelas. Regulagem de tensao ainda pendente.",
+    "volume_mm3": 38645.0457751893
+  },
+  {
+    "nome": "07_M4_ajuste_X",
+    "tipo": "parafuso",
+    "etapa": 7,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 561.9680938741438
+  },
+  {
+    "nome": "07_Eixo_tensor_X",
+    "tipo": "parafuso",
+    "etapa": 7,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 925.7880851047435
+  },
+  {
+    "nome": "07_Espacador_metal_M5",
+    "tipo": "aco",
+    "etapa": 7,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 273.9076094848597
+  },
+  {
+    "nome": "07_Polia_livre_X_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 7,
+    "nota": "Polia GT2 20 dentes: envelope; diametro primitivo 12,732 mm. Dentes e prisioneiro omitidos.",
+    "volume_mm3": 1919.2931998576125
+  },
+  {
+    "nome": "07_Correia_X_envelope",
+    "tipo": "correia",
+    "etapa": 7,
+    "nota": "Envelope continuo; dentes e ancoragens finais pendentes.",
+    "volume_mm3": 7022.389564390218
+  },
+  {
+    "nome": "08_Apoio_mesa_MDF_frente",
+    "tipo": "mdf",
+    "etapa": 8,
+    "nota": "",
+    "volume_mm3": 244841.97699561404
+  },
+  {
+    "nome": "08_Apoio_mesa_MDF_tras_E",
+    "tipo": "mdf",
+    "etapa": 8,
+    "nota": "Apoio traseiro bipartido deixa passagem para motor, eixo e polia Y.",
+    "volume_mm3": 100454.7843595601
+  },
+  {
+    "nome": "08_Apoio_mesa_MDF_tras_D",
+    "tipo": "mdf",
+    "etapa": 8,
+    "nota": "Apoio traseiro bipartido deixa passagem para motor, eixo e polia Y.",
+    "volume_mm3": 100454.7843595601
+  },
+  {
+    "nome": "08_Tampo_MDF_330x500x12",
+    "tipo": "mdf",
+    "etapa": 8,
+    "nota": "Instalar somente apos correia Y e travessa inferior. Fixacoes definitivas da madeira a conferir.",
+    "volume_mm3": 1978065.1873324323
+  },
+  {
+    "nome": "08_Bandeja_eletronica",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: bandeja universal ventilada sob tampo, acima da travessa. Modulos presos por perfboard e amarras; conferir placa ESP32 real.",
+    "volume_mm3": 32480.342806801542
+  },
+  {
+    "nome": "08_Perfboard_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Perfboard80x60, furacao75x55; furar a placa universal conforme os apoios, montar modulos com soquetes e amarras.",
+    "volume_mm3": 7621.89310227921
+  },
+  {
+    "nome": "08_M3_perfboard_87.5_407.5",
+    "tipo": "parafuso",
+    "etapa": 8,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 136.3529751474309
+  },
+  {
+    "nome": "08_M3_perfboard_87.5_462.5",
+    "tipo": "parafuso",
+    "etapa": 8,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 136.3529751474309
+  },
+  {
+    "nome": "08_M3_perfboard_162.5_407.5",
+    "tipo": "parafuso",
+    "etapa": 8,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 136.35297514743087
+  },
+  {
+    "nome": "08_M3_perfboard_162.5_462.5",
+    "tipo": "parafuso",
+    "etapa": 8,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 136.35297514743087
+  },
+  {
+    "nome": "08_ESP32_USB_C_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Envelope de reserva, nao identifica variante/pinagem. Placa existente, prender por suportes ajustaveis na perfboard.",
+    "volume_mm3": 18816.0
+  },
+  {
+    "nome": "08_Driver_A4988_REFERENCIA_123",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "A4988 candidato, corrente a ajustar ao NEMA17 real; modulo comercial com dissipador.",
+    "volume_mm3": 4800.0
+  },
+  {
+    "nome": "08_Driver_A4988_REFERENCIA_145",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "A4988 candidato, corrente a ajustar ao NEMA17 real; modulo comercial com dissipador.",
+    "volume_mm3": 4800.0
+  },
+  {
+    "nome": "08_Conversor_5V_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Reserva de envelope de conversor DC-DC; escolher 5 V com capacidade para servo e logica.",
+    "volume_mm3": 14448.000000000002
+  },
+  {
+    "nome": "08_Painel_operador",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: caixa frontal, LCD1602 existente, encoder EC11, microSD, chave DC e USB-C. Furações de modulos sao interfaces nominais a conferir.",
+    "volume_mm3": 68603.25299114014
+  },
+  {
+    "nome": "08_LCD1602_I2C_REFERENCIA",
+    "tipo": "servo",
+    "etapa": 8,
+    "nota": "R09: PCB e corpo separados no mesmo envelope; furos nominais75x31 em PCB1,6 mm. Conferir modulo real; M2,5x12 com porcas e arruelas.",
+    "volume_mm3": 36603.35646328853
+  },
+  {
+    "nome": "08_USB_C_painel_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Envelope de extensao USB-C femea de painel a USB-C macho para a placa existente. Nao e leitor de pendrive.",
+    "volume_mm3": 3300.0
+  },
+  {
+    "nome": "08_Encoder_EC11_REFERENCIA",
+    "tipo": "aco",
+    "etapa": 8,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 2177.7610115284715
+  },
+  {
+    "nome": "08_Manopla_encoder",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3677.957831815382
+  },
+  {
+    "nome": "08_microSD_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Envelope Pololu2587, SPI; nao e USB host. Montagem lateral na bandeja, junto ao ESP32, para manter SPI curto.",
+    "volume_mm3": 1711.2000000000007
+  },
+  {
+    "nome": "08_Alivio_cabos_fixo",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: ancora fixa do laco Y, lado externo direito. Duas amarras pelo rasgo; nao tensionar conectores.",
+    "volume_mm3": 2242.071659162462
+  },
+  {
+    "nome": "08_Chave_DC_REFERENCIA",
+    "tipo": "motor",
+    "etapa": 8,
+    "nota": "Chave bipolar de painel para 12V DC; capacidade DC conforme carga. Fonte externa fechada.",
+    "volume_mm3": 3900.000000000001
+  },
+  {
+    "nome": "08_Tampa_painel",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: tampa removivel do painel; prender por quatro M3 em abas/cantos.",
+    "volume_mm3": 15491.0495667735
+  },
+  {
+    "nome": "08_Guia_cabo_100",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: guia sob tampo; passar cabos com amarras e manter acima da travessa. Folgas do chicote flexivel exigem ensaio real.",
+    "volume_mm3": 1055.683188924502
+  },
+  {
+    "nome": "08_Guia_cabo_240",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: guia sob tampo; passar cabos com amarras e manter acima da travessa. Folgas do chicote flexivel exigem ensaio real.",
+    "volume_mm3": 1055.683188924502
+  },
+  {
+    "nome": "08_Guia_cabo_380",
+    "tipo": "impresso",
+    "etapa": 8,
+    "nota": "R07: guia sob tampo; passar cabos com amarras e manter acima da travessa. Folgas do chicote flexivel exigem ensaio real.",
+    "volume_mm3": 1055.6831889245022
+  },
+  {
+    "nome": "09_Suporte_integrado_cabecote",
+    "tipo": "impresso",
+    "etapa": 9,
+    "nota": "R07: par de fixacao M3 coaxial ao carro; usar dois M3 x 40 com porcas.",
+    "volume_mm3": 43336.84084918955
+  },
+  {
+    "nome": "09_Guia_caneta_4x55_195",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 691.1503837897549
+  },
+  {
+    "nome": "09_Guia_caneta_4x55_225",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 691.1503837897549
+  },
+  {
+    "nome": "09_Colar_guia_195_90",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.05529427552855
+  },
+  {
+    "nome": "09_Colar_guia_195_123",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.05529427552855
+  },
+  {
+    "nome": "09_Colar_guia_195_134",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.05529427552855
+  },
+  {
+    "nome": "09_Mola_REFERENCIA_195",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 91.3260984398566
+  },
+  {
+    "nome": "09_Colar_guia_225_90",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.0552942755286
+  },
+  {
+    "nome": "09_Colar_guia_225_123",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.0552942755286
+  },
+  {
+    "nome": "09_Colar_guia_225_134",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 182.0552942755286
+  },
+  {
+    "nome": "09_Mola_REFERENCIA_225",
+    "tipo": "aco",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 91.3260984398566
+  },
+  {
+    "nome": "09_Cursor_caneta",
+    "tipo": "impresso",
+    "etapa": 9,
+    "nota": "Prototipo de encaixe e pressao. Ajustar ao diametro da caneta; mola/limitador e acionamento servo requerem teste.",
+    "volume_mm3": 8104.636657200453
+  },
+  {
+    "nome": "09_M3_aperto_caneta",
+    "tipo": "parafuso",
+    "etapa": 9,
+    "nota": "R07: envelope liso de fixacao, sem rosca; porcas e arruelas constam da lista de materiais.",
+    "volume_mm3": 136.35297514743107
+  },
+  {
+    "nome": "09_Suporte_SG90",
+    "tipo": "impresso",
+    "etapa": 9,
+    "nota": "R07: janela ajustavel para SG90 de eixo lateral. Confirmar orelhas e horn no servo existente; dois M3x20 prendem a flange ao cabecote.",
+    "volume_mm3": 9409.38892934844
+  },
+  {
+    "nome": "09_SG90_REFERENCIA",
+    "tipo": "servo",
+    "etapa": 9,
+    "nota": "R07: envelope TowerPro SG90 orientado corretamente para eixo Y. Furos de orelhas sao nominais; conferir servo comprado.",
+    "volume_mm3": 6634.26336444578
+  },
+  {
+    "nome": "09_Eixo_servo_REFERENCIA",
+    "tipo": "servo",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 62.83185307179581
+  },
+  {
+    "nome": "09_Horn_REFERENCIA",
+    "tipo": "servo",
+    "etapa": 9,
+    "nota": "R07: alavanca nominal raio15mm; posicao baixa de referencia. Cerca de25 graus levantam aproximadamente6mm; calibrar no SG90 real.",
+    "volume_mm3": 241.07963267948918
+  },
+  {
+    "nome": "09_Caneta_REFERENCIA",
+    "tipo": "caneta",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 6652.322443976385
+  },
+  {
+    "nome": "09_Ponta_caneta_REFERENCIA",
+    "tipo": "caneta",
+    "etapa": 9,
+    "nota": "Envelope comercial; confirmar fabricante e tolerancias.",
+    "volume_mm3": 3.1415926535897802
+  },
+  {
+    "nome": "10_M4_apoio_Y_20_25",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316362
+  },
+  {
+    "nome": "10_M4_apoio_Y_40_25",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316364
+  },
+  {
+    "nome": "10_M4_apoio_Y_20_475",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.596376231638
+  },
+  {
+    "nome": "10_M4_apoio_Y_40_475",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316383
+  },
+  {
+    "nome": "10_M4_apoio_Y_410_25",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316378
+  },
+  {
+    "nome": "10_M4_apoio_Y_430_25",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316378
+  },
+  {
+    "nome": "10_M4_apoio_Y_410_475",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316394
+  },
+  {
+    "nome": "10_M4_apoio_Y_430_475",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 988.5963762316394
+  },
+  {
+    "nome": "10_M4_lateral_13_225",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.5166832634388
+  },
+  {
+    "nome": "10_M4_lateral_13_235",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.5166832634388
+  },
+  {
+    "nome": "10_M4_lateral_13_245",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.5166832634388
+  },
+  {
+    "nome": "10_M4_lateral_47_225",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263439
+  },
+  {
+    "nome": "10_M4_lateral_47_235",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263439
+  },
+  {
+    "nome": "10_M4_lateral_47_245",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263439
+  },
+  {
+    "nome": "10_M4_lateral_403_225",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_lateral_403_235",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_lateral_403_245",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_lateral_437_225",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_lateral_437_235",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_lateral_437_245",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1541.516683263441
+  },
+  {
+    "nome": "10_M4_pe_80_50",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 800.1008170162486
+  },
+  {
+    "nome": "10_M4_pe_80_450",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 800.1008170162503
+  },
+  {
+    "nome": "10_M4_pe_370_50",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 800.1008170162496
+  },
+  {
+    "nome": "10_M4_pe_370_450",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 800.1008170162513
+  },
+  {
+    "nome": "10_M4_mesa_90_7.5",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1177.0919354470234
+  },
+  {
+    "nome": "10_M4_mesa_225_7.5",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1177.0919354470248
+  },
+  {
+    "nome": "10_M4_mesa_360_7.5",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1177.0919354470252
+  },
+  {
+    "nome": "10_M4_mesa_90_492.5",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1177.0919354470261
+  },
+  {
+    "nome": "10_M4_mesa_360_492.5",
+    "tipo": "parafuso",
+    "etapa": 10,
+    "nota": "Representacao lisa, sem rosca; comprimento sob a cabeca.",
+    "volume_mm3": 1177.0919354470277
+  },
+  {
+    "nome": "11_Folha_A4_210x297",
+    "tipo": "papel",
+    "etapa": 11,
+    "nota": "Referencia de folha, nao imprimir.",
+    "volume_mm3": 9355.500000000357
+  }
+]
