@@ -1,31 +1,52 @@
 # Robô Cartesiano Desenhista e Calígrafo
 
-Protótipo acadêmico para desenhar e escrever em papel A4 com uma caneta. Projeto da disciplina **Projeto de Engenharia II: Manipuladores Robóticos (8790.1.02)**, da PUC Minas.
+Projeto acadêmico da disciplina **Projeto de Engenharia II: Manipuladores
+Robóticos (8790.1.02)**, da PUC Minas.
 
-Na revisão R09, o carro da caneta se desloca em X, a ponte se desloca em Y e um servo SG90 levanta e abaixa a caneta. A janela útil prevista no CAD é de **225 × 310 mm**. A estrutura combina peças impressas em PLA, MDF e componentes comerciais.
+## Objetivo
 
-## Arquivos da revisão R09
+Desenvolver um robô cartesiano capaz de desenhar e escrever com uma caneta por
+meio de trajetórias vetoriais contínuas. O conceito inicial utiliza:
 
-| Arquivo | Uso |
-| --- | --- |
-| [Modelo montado em STEP](prototipo/R09/Robo%20Cartografico%20A4%20Montado.step) | Inspecionar o conjunto no CAD |
-| [Lista de materiais](prototipo/R09/Lista%20de%20Materiais.xlsx) | Conferir componentes e quantidades |
-| [Projeto OrcaSlicer em 13 mesas](prototipo/R09/Robo%20Cartografico%20A4%20Desmontado.3mf) | Fatiar as peças em PLA |
-| [Peças impressas](prototipo/R09/Pecas/01_Impressao_3D) e [peças em MDF](prototipo/R09/Pecas/02_MDF_NAO_IMPRIMIR) | Consultar arquivos individuais de fabricação |
-| [Montagem e regulagens](prototipo/R09/Pecas/_Desenvolvimento/MONTAGEM_R09.md) | Conferir encaixes, fixações, correias e ajuste da caneta |
-| [Arquitetura eletrônica](prototipo/R09/Pecas/_Desenvolvimento/ELETRONICA_R07.md) | Consultar o projeto de integração com ESP32 |
+- eixo X para movimentar a caneta;
+- eixo Y para transportar a folha de forma bidirecional;
+- eixo Z simplificado, acionado por servo, para levantar e abaixar a caneta;
+- ESP32 D1 R32 como controlador principal;
+- motores de passo nos eixos X e Y;
+- sensores de fim de curso e sensores ópticos de papel.
 
-## Montagem e ensaios
+O MVP deverá trabalhar inicialmente com SVG e texto em fontes monolineares,
+convertidos no computador para G-code ou para um protocolo intermediário. O
+firmware começará com movimentos lineares e comandos equivalentes a `G0`, `G1`,
+`PEN_UP` e `PEN_DOWN`.
 
-1. Confira a [classificação das peças](prototipo/R09/Pecas/LEIA%20PRIMEIRO.md) antes de fabricar.
-2. Abra o arquivo 3MF como projeto no OrcaSlicer, confira o perfil da impressora e consulte os [tempos estimados por mesa](prototipo/R09/Pecas/_Desenvolvimento/Impressao_ate5h_R09/Tempos%20e%20pecas%20por%20mesa.md).
-3. Use o guia de montagem para ajustar a ponte e a caneta. O pacote inclui um [teste XY para GRBL](prototipo/R09/GCode_TXT/Teste_R10_XY.txt).
+## Protótipo A4 — revisão R09
 
-A montagem física e a calibração do protótipo estão pendentes. O firmware dedicado para ESP32, a conversão de SVG e texto para trajetórias e a interface de operação fazem parte da próxima etapa.
+A revisão R09 reúne o CAD mecânico do protótipo, a lista de materiais e os arquivos de fabricação. O conjunto foi projetado para desenhar em papel A4 com uma caneta acionada por servo.
 
-## Vídeos e demonstrações
+- [Modelo montado em STEP](prototipo/R09/Robo%20Cartografico%20A4%20Montado.step)
+- [Projeto de impressão OrcaSlicer em 13 mesas](prototipo/R09/Robo%20Cartografico%20A4%20Desmontado.3mf) e [tempos estimados](prototipo/R09/Pecas/_Desenvolvimento/Impressao_ate5h_R09/Tempos%20e%20pecas%20por%20mesa.md)
+- [Lista de materiais](prototipo/R09/Lista%20de%20Materiais.xlsx) e [arquivos de peças](prototipo/R09/Pecas)
+- [Montagem e regulagens](prototipo/R09/Pecas/_Desenvolvimento/MONTAGEM_R09.md) e [arquitetura eletrônica](prototipo/R09/Pecas/_Desenvolvimento/ELETRONICA_R07.md)
 
-*Os links do YouTube serão adicionados aqui.*
+A montagem física e a calibração do protótipo estão pendentes. O pacote inclui um teste XY para GRBL. O firmware de controle do Calígrafo por ESP32 e a interface web ainda estão planejados.
+
+## Estrutura do repositório
+
+```text
+docs/                         documentação do projeto
+firmware/esp32/               firmware principal do controlador
+firmware/testes_motores/      ensaios isolados de motores e movimento
+software/conversor_gcode/     conversão de vetores e texto em trajetórias
+software/interface_web/       interface de operação e acompanhamento
+mecanica/cad/                 modelos CAD
+mecanica/desenhos_tecnicos/   desenhos para fabricação e montagem
+mecanica/impressao_3d/        arquivos destinados à impressão 3D
+eletronica/                   esquemas, placas e listas de conexões
+gcode/                        trajetórias e exemplos de entrada
+testes/                       protocolos e recursos de teste
+resultados/                   medições e evidências experimentais
+```
 
 ## Integrantes
 
@@ -34,3 +55,11 @@ A montagem física e a calibração do protótipo estão pendentes. O firmware d
 - Laila Marques Soares
 - Izabelly Pedrosa Belchior
 - Maria Eduarda Miranda Araujo
+
+## Próximos passos
+
+1. Definir os componentes do primeiro protótipo.
+2. Validar individualmente motores, drivers, servo e sensores.
+3. Implementar movimento manual, homing e limites.
+4. Calibrar os passos por milímetro dos eixos X e Y.
+5. Executar e registrar os ensaios geométricos iniciais.
